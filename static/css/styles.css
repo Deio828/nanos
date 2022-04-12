@@ -1,0 +1,46 @@
+/* ----------- Body ------------ */
+body {
+    font-family: 'Sofia';
+    font-size: 22px;
+}
+
+.nancy {
+    font-family: "Sofia";
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 100px;
+}
+
+.love {
+    font-family: "Open Sans";
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 200px;
+    padding-bottom: 20px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: auto;
+}
+
+.carousel-item {
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: 50%;
+  }
+
+.text-block {
+position: absolute;
+top: 30%;
+width: 100%;
+background-color: black;
+color: white;
+padding-left: 20px;
+padding-right: 20px;
+text-align: center;
+opacity: 0.6;
+}
